@@ -1,0 +1,3 @@
+diff a/JunitSample/.gitignore b/JunitSample/.gitignore	(rejected hunks)
+@@ -0,0 +1 @@
++/bin/
