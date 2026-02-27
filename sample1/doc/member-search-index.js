@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mock.sample.controller","c":"ControllerATest","l":"ControllerATest()","u":"%3Cinit%3E()"},{"p":"mock.sample.controller","c":"ControllerATest","l":"test_getContentA()"}];updateSearchResults();

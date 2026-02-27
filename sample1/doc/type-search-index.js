@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"mock.sample.controller","l":"ControllerATest"},{"l":"すべてのクラスおよびインタフェース","u":"allclasses-index.html"}];updateSearchResults();
