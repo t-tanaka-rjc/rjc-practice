@@ -39,7 +39,7 @@ class PersonTest {
 			
 			//値を取得してテスト（第3引数はエラー時に表示されるメッセージ）
 			//getメソッドの戻り値はオブジェクト型なのでキャストしている
-			assertEquals("Momotaro2", 
+			assertEquals("Momotaro", 
 					(String) nameField.get(defaultPerson),
 					"Default Person Name");
 			
